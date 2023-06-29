@@ -1,0 +1,14 @@
+{
+  "name": "xyz-bank-automation",
+  "version": "1.0.0",
+  "description": "A simple bank automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
